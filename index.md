@@ -65,7 +65,7 @@ More to come soon!
 ## Contact
 If you have any questions regarding the seminar, please email one of us: 
 
+- Safinah Ali: <safinah@media.mit.edu>
 - Hal Abelson: <hal@mit.edu>
 - Prerna Ravi: <prernar@mit.edu>
-- Safinah Ali: <safinah@media.mit.edu>
 - Kate Moore: <ksmoore@mit.edu>
