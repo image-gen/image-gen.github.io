@@ -1,51 +1,15 @@
 # **MIT IAP Seminar 2023: Introduction to Text-to-Image Generation for K-12 Education**
 
 ## Instructors
-  <div >
-    <figure>
-    <img
-    src="https://pbs.twimg.com/profile_images/1602560514852167680/jloxgKM5_400x400.jpg"
-    width="250"
-    alt="Prerna Ravi"/>
-    <figcaption ><a href="https://prernaravi.com/"> Prerna Ravi</a></figcaption>
-    </figure>
- </div>
-
-<div >
-    <figure>
-    <img
-    src="https://raise.mit.edu/images/team-safinah.jpg"
-    width="250"
-    alt="Safinah Ali"/>
-    <figcaption ><a href="https://safinahali.com/">Safinah Ali</a></figcaption>
-    </figure>
-</div>
-
-
-
-<div >
-    <figure>
-    <img
-        src="https://education.mit.edu/wp-content/uploads/bb-plugin/cache/Kate-Moore-pdf-square.jpg"
-        width="250"
-        alt="Kate Moore"/>
-    <figcaption ><a href="http://www.katemoore.me/">Kate Moore</a></figcaption>
-    </figure>
-</div>
-
+[Safinah Ali](https://safinahali.com)
+[Prerna Ravi](https://prernaravi.com/)
+[Katherine Moore](http://www.katemoore.me/)
 
 
 
 ## Faculty Sponsor
-
-<figure>
-    <img
-        src="https://www.csail.mit.edu/sites/default/files/styles/headshot/public/images/migration/abelson.jpg?h=5636fc5d&itok=ttD7eWss"
-        width="250"
-        alt="Hal Abelson"/>
-    <figcaption ><a href="https://www.csail.mit.edu/person/hal-abelson">Hal Abelson</a></figcaption>
-</figure>
-
+[Hal Abelson](https://www.csail.mit.edu/person/hal-abelson)
+[Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/)
 
 ## Time and Dates
 10-11:30 AM EST on Tuesdays & Thursdays [from Jan 10, 2023 to Jan 26, 2023(6 remote sessions)]
