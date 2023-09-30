@@ -2,13 +2,16 @@
 
 ## Instructors
 [Safinah Ali](https://safinahali.com)
+
 [Prerna Ravi](https://prernaravi.com/)
+
 [Katherine Moore](http://www.katemoore.me/)
 
 
 
 ## Faculty Sponsor
 [Hal Abelson](https://www.csail.mit.edu/person/hal-abelson)
+
 [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/)
 
 ## Time and Dates
